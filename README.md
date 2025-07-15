@@ -8,7 +8,7 @@
 
 ## 🖥️ My Contribution
 
-I built around **85%** of the codebase for AUTOBUBA’s public-facing site, including:
+I built around **90%** of the codebase for AUTOBUBA’s public-facing site, including:
 
 - Homepage layout and hero section
 - Smart filtering system for rent/buy options
@@ -22,7 +22,7 @@ I built around **85%** of the codebase for AUTOBUBA’s public-facing site, incl
 ## ⚙️ Tech Stack
 
 - **HTML5** – semantic, accessible structure  
-- **CSS3 / TailwindCSS** – responsive styles and layout  
+- **CSS3 / Bootstrap** – responsive styles and layout  
 - **JavaScript** – DOM interactions and filtering  
 - **PHP** – dynamic content rendering and backend logic  
 - **MySQL** – database structure for vehicles and search logic
